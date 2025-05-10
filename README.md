@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Rahate</h1>
+<h1 align="center">Hi 👋, I'm Roshan Jadhav</h1>
 <h3 align="center">Aspiring Java Developer</h3>
 
 - 🔭 I’m currently working on *Developing skills and proficiency related to Software Development*
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *Java,Java Development,DSA,React,*
 
-- 📫 How to reach me *prajwalrahate03@gmail.com*
+- 📫 How to reach me *roshanjadhav7822@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
