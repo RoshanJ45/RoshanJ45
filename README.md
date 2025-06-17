@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on *Projects related to software development*
 
-- 💬 Ask me about *Java,Java Development,DSA,React,*
+- 💬 Ask me about *C,C++,Java,Python,Java Development,DSA,React,*
 
 - 📫 How to reach me *roshanjadhav7822@gmail.com*
 
