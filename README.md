@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Jadhav</h1>
-<h3 align="center">Aspiring Java Developer</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on *Developing skills and proficiency related to Software Development*
 
